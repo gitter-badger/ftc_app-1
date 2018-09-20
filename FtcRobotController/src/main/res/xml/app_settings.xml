@@ -66,7 +66,7 @@ See https://developer.android.com/guide/topics/ui/settings.html
         android:title="@string/prefedit_sound_on_off"
         android:summary="@string/prefedit_sound_on_off_summary_rc"
         android:key="@string/pref_sound_on_off"
-        android:defaultValue="true"
+        android:defaultValue="false"
         />
 
     <PreferenceScreen
